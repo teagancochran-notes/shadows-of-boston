@@ -6,11 +6,11 @@ species: Human
 # Relationships
 | Person     | Relationship | Sentiment | Notes |
 | ---------- | ------------ | --------- | ----- |
-| [Amelia](../PCs/Amelia.md#) | Bodyguard    | Unknown   |       |
+| [[../PCs/Amelia|Amelia]] | Bodyguard    | Unknown   |       |
 
 # Notes
-## [Session 1](../../Sessions/Session%201.md#)
-* Escorted [Amelia](../PCs/Amelia.md#) to Kirkman's party
+## [[../../Sessions/Session 1|Session 1]]
+* Escorted [[../PCs/Amelia|Amelia]] to Kirkman's party
 
 # Appearances/Mentions
 
