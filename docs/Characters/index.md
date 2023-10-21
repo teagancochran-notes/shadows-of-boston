@@ -3,41 +3,41 @@ tags: MOC/1
 ---
 %% Begin Waypoint %%
 - **NPCs**
-	- [Benjamin](./NPCs/Benjamin.md#)
-	- [Damien Hausberg](./NPCs/Damien%20Hausberg.md#)
-	- [Damien](./NPCs/Damien.md#)
-	- [Dean](./NPCs/Dean.md#)
-	- [Desirae](./NPCs/Desirae.md#)
-	- [Dollar Store Sheriff](./NPCs/Dollar%20Store%20Sheriff.md#)
-	- [Emmitt Delmar](./NPCs/Emmitt%20Delmar.md#)
-	- [Felix](./NPCs/Felix.md#)
-	- [Hawk](./NPCs/Hawk.md#)
-	- [Kenji](./NPCs/Kenji.md#)
-	- [Kiki](./NPCs/Kiki.md#)
-	- [Kirkman](./NPCs/Kirkman.md#)
-	- [Lily Mareno](./NPCs/Lily%20Mareno.md#)
-	- [Louisa Sinclair](./NPCs/Louisa%20Sinclair.md#)
-	- [Mark 1](./NPCs/Mark%201.md#)
-	- [Melissa Bourke](./NPCs/Melissa%20Bourke.md#)
-	- [Michael](./NPCs/Michael.md#)
-	- [Myers Fuller](./NPCs/Myers%20Fuller.md#)
-	- [Oisin](./NPCs/Oisin.md#)
-	- [Owl](./NPCs/Owl.md#)
-	- [Sarah Border](./NPCs/Sarah%20Border.md#)
-	- [Sebastian](./NPCs/Sebastian.md#)
-	- [Sophia](./NPCs/Sophia.md#)
-	- [Styks](./NPCs/Styks.md#)
-	- [Swan](./NPCs/Swan.md#)
-	- [The Butcher](./NPCs/The%20Butcher.md#)
-	- [Trisha](./NPCs/Trisha.md#)
-	- [Vin](./NPCs/Vin.md#)
-	- [Werewolf](./NPCs/Werewolf.md#)
-	- [Yasmin](./NPCs/Yasmin.md#)
+	- [[./NPCs/Benjamin|Benjamin]]
+	- [[./NPCs/Damien Hausberg|Damien Hausberg]]
+	- [[./NPCs/Damien|Damien]]
+	- [[./NPCs/Dean|Dean]]
+	- [[./NPCs/Desirae|Desirae]]
+	- [[./NPCs/Dollar Store Sheriff|Dollar Store Sheriff]]
+	- [[./NPCs/Emmitt Delmar|Emmitt Delmar]]
+	- [[./NPCs/Felix|Felix]]
+	- [[./NPCs/Hawk|Hawk]]
+	- [[./NPCs/Kenji|Kenji]]
+	- [[./NPCs/Kiki|Kiki]]
+	- [[./NPCs/Kirkman|Kirkman]]
+	- [[./NPCs/Lily Mareno|Lily Mareno]]
+	- [[./NPCs/Louisa Sinclair|Louisa Sinclair]]
+	- [[./NPCs/Mark 1|Mark 1]]
+	- [[./NPCs/Melissa Bourke|Melissa Bourke]]
+	- [[./NPCs/Michael|Michael]]
+	- [[./NPCs/Myers Fuller|Myers Fuller]]
+	- [[./NPCs/Oisin|Oisin]]
+	- [[./NPCs/Owl|Owl]]
+	- [[./NPCs/Sarah Border|Sarah Border]]
+	- [[./NPCs/Sebastian|Sebastian]]
+	- [[./NPCs/Sophia|Sophia]]
+	- [[./NPCs/Styks|Styks]]
+	- [[./NPCs/Swan|Swan]]
+	- [[./NPCs/The Butcher|The Butcher]]
+	- [[./NPCs/Trisha|Trisha]]
+	- [[./NPCs/Vin|Vin]]
+	- [[./NPCs/Werewolf|Werewolf]]
+	- [[./NPCs/Yasmin|Yasmin]]
 - **PCs**
-	- [Amelia](./PCs/Amelia.md#)
-	- [Maggie](./PCs/Maggie.md#)
-	- [Sasha](./PCs/Sasha.md#)
-	- [Saul](./PCs/Saul.md#)
-	- [Zeffér](./PCs/Zeff%C3%A9r.md#)
+	- [[./PCs/Amelia|Amelia]]
+	- [[./PCs/Maggie|Maggie]]
+	- [[./PCs/Sasha|Sasha]]
+	- [[./PCs/Saul|Saul]]
+	- [[./PCs/Zeffér|Zeffér]]
 
 %% End Waypoint %%
