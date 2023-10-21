@@ -1,4 +1,4 @@
 - Lost 90% of the people that go there
-* Visited by [Maggie](../../Characters/PCs/Maggie.md#) and [Zeffér](../../Characters/PCs/Zeff%C3%A9r.md#) to find escaped victims
+* Visited by [[../../Characters/PCs/Maggie|Maggie]] and [[../../Characters/PCs/Zeffér|Zeffér]] to find escaped victims
 * Services a lot of veterans
-* Clerk liked that [I](../../Characters/PCs/Maggie.md#) spoke highly of veterans
+* Clerk liked that [[../../Characters/PCs/Maggie|I]] spoke highly of veterans
