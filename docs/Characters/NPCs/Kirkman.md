@@ -2,7 +2,7 @@
 tags:
   - character/npc
 organisations:
-  - "[[../../Organisations/Camarilla|Camarilla]]"
+  - "[Camarilla](../../Organisations/Camarilla.md#)"
 roles:
   - Camarilla 2IC
 titles:
@@ -10,14 +10,14 @@ titles:
 species: Vampire
 ---
 # Notes
-## [[../../Sessions/Session 1|Session 1]]
+## [Session 1](../../Sessions/Session%201.md#)
 - Has been in Boston 7 years but hasn't done much
 - Well-known
 - Count
 - Runs banking
 - Good ally, terrifying enemy
-- [[../../Organisations/Camarilla|Camarilla]] 2IC
-- From [[../../Places/New York/index|New York]]
+- [Camarilla](../../Organisations/Camarilla.md#) 2IC
+- From [New York](../../Places/New%20York/index.md#)
 
 # Appearances/Mentions
 
