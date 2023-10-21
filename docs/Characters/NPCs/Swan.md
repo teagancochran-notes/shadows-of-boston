@@ -2,14 +2,14 @@
 tags:
   - character/npc
 organisations:
-  - "[Regatta](../../Organisations/Regatta.md#)"
+  - "[[../../Organisations/Regatta|Regatta]]"
 species: Vampire
 aliases:
   - Asana
 ---
 # Notes
-## [Session 1](../../Sessions/Session%201.md#)
-- [Regatta](../../Organisations/Regatta.md#)'s founder and president
+## [[../../Sessions/Session 1|Session 1]]
+- [[../../Organisations/Regatta|Regatta]]'s founder and president
 
 # Appearances/Mentions
 
