@@ -5,7 +5,7 @@ tags:
   - session
   - status/linking
 date: 2023-01-29
-chapter: ""
+chapter: Voices in the Night
 session: 6
 title: Tech Support
 attended: true
@@ -40,32 +40,6 @@ mentioned-npcs:
 
 > [!previously]- Previously
 > ![[./Session 5#^summary|Session 5 > ^summary]]
-# Characters
-
-| File                                                    | Organisations                         |
-| ------------------------------------------------------- | ------------------------------------- |
-| [[../Characters/NPCs/Damien\|Damien]]                   | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/NPCs/Desirae\|Desirae]]                 |                                       |
-| [[../Characters/NPCs/Emmitt Delmar\|Emmitt Delmar]]     | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/NPCs/Felix\|Felix]]                     | \-                                    |
-| [[../Characters/NPCs/Hawk\|Hawk]]                       | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/NPCs/Kenji\|Kenji]]                     | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/NPCs/Louisa Sinclair\|Louisa Sinclair]] | [[../Organisations/Anarchs\|Anarchs]] |
-| [[../Characters/NPCs/Lily Mareno\|Lily Mareno]]         |                                       |
-| [[../Characters/NPCs/Melissa Bourke\|Melissa Bourke]]   |                                       |
-| [[../Characters/NPCs/Myers Fuller\|Myers Fuller]]       | [[../Organisations/Anarchs\|Anarchs]] |
-| [[../Characters/NPCs/Oisin\|Oisin]]                     | [[../Organisations/Anarchs\|Anarchs]] |
-| [[../Characters/NPCs/Owl\|Owl]]                         | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/NPCs/Sebastian\|Sebastian]]             | \-                                    |
-| [[../Characters/NPCs/Swan\|Swan]]                       | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/NPCs/Trisha\|Trisha]]                   | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/NPCs/Werewolf\|Werewolf]]               | \-                                    |
-| [[../Characters/PCs/Maggie\|Maggie]]                    | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/PCs/Sasha\|Sasha]]                      | [[../Organisations/Anarchs\|Anarchs]] |
-| [[../Characters/PCs/Saul\|Saul]]                        |                                       |
-| [[../Characters/PCs/Zeffér\|Zeffér]]                    | [[../Organisations/Regatta\|Regatta]] |
-
-
 # Recording
 <iframe width="100%" height="100" src="https://www.youtube.com/embed/5srgpalAG3U?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
 # Notes
