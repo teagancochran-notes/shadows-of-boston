@@ -2,21 +2,21 @@
 tags:
   - character/npc
 organisations:
-  - "[[../../Organisations/Anarchs|Anarchs]]"
-bloodline: "[[Ventrue|Ventrue]]"
+  - "[Anarchs](../../Organisations/Anarchs.md#)"
+bloodline: "[Ventrue](Ventrue.md#)"
 species: Vampire
 aliases:
   - Red
 ---
 # Notes
-## [[../../Sessions/Session 1|Session 1]]
-* Finance guy for the [[../../Organisations/Anarchs|Anarchs]]
+## [Session 1](../../Sessions/Session%201.md#)
+* Finance guy for the [Anarchs](../../Organisations/Anarchs.md#)
 * **Appearance**
 	- glasses
 	- crew cut
 	- expensive clothing
 
-## [[../../Sessions/Session 4|Session 4]]
+## [Session 4](../../Sessions/Session%204.md#)
 - Also known as 'Red'
 - Red hair and wears a lot of maroon
 
