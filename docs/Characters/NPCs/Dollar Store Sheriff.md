@@ -1,14 +1,14 @@
 ---
 tags: character/npc
 aliases: ["Dollar Store Sheriff"]
-organisations: ["[Camarilla](../../Organisations/Camarilla.md#)"]
+organisations: ["[[../../Organisations/Camarilla|Camarilla]]"]
 species: Vampire
 ---
 
 # Notes
-**[Session 1](../../Sessions/Session%201.md#)**
-- [Camarilla](../../Organisations/Camarilla.md#) enforcer
-- Finger has been cut off by [Anarchs](../../Organisations/Anarchs.md#) and given to [Kirkman](./Kirkman.md#) on his birthday by [Yasmin](./Yasmin.md#)
+**[[../../Sessions/Session 1|Session 1]]**
+- [[../../Organisations/Camarilla|Camarilla]] enforcer
+- Finger has been cut off by [[../../Organisations/Anarchs|Anarchs]] and given to [[./Kirkman|Kirkman]] on his birthday by [[./Yasmin|Yasmin]]
 	- Implied that he is being held captive rather than killed as finger has not 
 # Appearances/Mentions
 
