@@ -7,20 +7,20 @@ aliases:
   - Marcus Olsen
   - Marcus
 organisations:
-  - "[Regatta](Regatta.md#)"
-bloodline: "[Tzimisce](Tzimisce.md#)"
+  - "[[Regatta|Regatta]]"
+bloodline: "[[Tzimisce|Tzimisce]]"
 species: Vampire
 ---
 # Relationships
 | Person      | Relationship | Sentiment | Notes |
 | ----------- | ------------ | --------- | ----- |
-| [Maggie](../PCs/Maggie.md#)  | Sire         | Unknown   |       |
-| [Kirkman](./Kirkman.md#) | Mysterious   | Unknown   | Had [Maggie](../PCs/Maggie.md#) deliver documents to [Kirkman](./Kirkman.md#) during his birthday party      |
+| [[../PCs/Maggie|Maggie]]  | Sire         | Unknown   |       |
+| [[./Kirkman|Kirkman]] | Mysterious   | Unknown   | Had [[../PCs/Maggie|Maggie]] deliver documents to [[./Kirkman|Kirkman]] during his birthday party      |
 
 ## Relationship Log
-- [x] [Session 1](../../Sessions/Session%201.md#): [Emmitt Delmar](Emmitt%20Delmar.md#) -> [Kirkman](./Kirkman.md#) - Unknown / Unknown (Had [Maggie](../PCs/Maggie.md#) deliver documents to [Kirkman](./Kirkman.md#) during his birthday party)
+- [x] [[../../Sessions/Session 1|Session 1]]: [[Emmitt Delmar|Emmitt Delmar]] -> [[./Kirkman|Kirkman]] - Unknown / Unknown (Had [[../PCs/Maggie|Maggie]] deliver documents to [[./Kirkman|Kirkman]] during his birthday party)
 # Notes
-## [Session 1](../../Sessions/Session%201.md#)
+## [[../../Sessions/Session 1|Session 1]]
 - Room
 	- Lavish home, expensive log cabin décor
 	- Symbols of dark creatures
