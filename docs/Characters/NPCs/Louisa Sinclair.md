@@ -6,9 +6,9 @@ aliases:
   - High Prophetess of the Council
   - The Prophetess
 organisations:
-  - "[Anarchs](Anarchs.md#)"
+  - "[[Anarchs|Anarchs]]"
 species: Vampire
-bloodline: "[Malkavian](Malkavian.md#)"
+bloodline: "[[Malkavian|Malkavian]]"
 ---
 # Notes
 
