@@ -2,10 +2,10 @@
 tags: MOC/1
 ---
 %% Begin Waypoint %%
-- [[./Anarchs|Anarchs]]
-- [[./Camarilla|Camarilla]]
-- [[./Regatta|Regatta]]
-- [[./The Council|The Council]]
-- [[./The Ministry|The Ministry]]
+- [Anarchs](./Anarchs.md#)
+- [Camarilla](./Camarilla.md#)
+- [Regatta](./Regatta.md#)
+- [The Council](./The%20Council.md#)
+- [The Ministry](./The%20Ministry.md#)
 
 %% End Waypoint %%

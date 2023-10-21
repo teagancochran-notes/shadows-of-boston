@@ -9,4 +9,4 @@ tags: [place/city, MOC/2]
 %% End Waypoint %%
 
 # Notes
-- Almost fully controlled by the [[../../Organisations/Anarchs|Anarchs]]
+- Almost fully controlled by the [Anarchs](../../Organisations/Anarchs.md#)

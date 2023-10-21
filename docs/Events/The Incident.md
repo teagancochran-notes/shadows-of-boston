@@ -1,10 +1,10 @@
 ---
 tags: event
-location: "[[../Places/Boston/index|Boston]]"
+location: "[Boston](../Places/Boston/index.md#)"
 ---
 
-[[../Characters/NPCs/Kirkman|Kirkman]] filled a hotel in [[../Places/Boston/index|Boston]] where his birthday party was being held with humans to be hunted for entertainment during [[../Sessions/Session 1|Session 1]]. No humans were supposed to be left alive by the end of the night however [[../Characters/PCs/Saul|Saul]] managed to rescue a number of them. [[../Characters/PCs/Maggie|Maggie]] assisted [[../Characters/PCs/Saul|Saul]] in rescuing one escapee but did not stay the rest of the night.
+[Kirkman](../Characters/NPCs/Kirkman.md#) filled a hotel in [Boston](../Places/Boston/index.md#) where his birthday party was being held with humans to be hunted for entertainment during [Session 1](../Sessions/Session%201.md#). No humans were supposed to be left alive by the end of the night however [Saul](../Characters/PCs/Saul.md#) managed to rescue a number of them. [Maggie](../Characters/PCs/Maggie.md#) assisted [Saul](../Characters/PCs/Saul.md#) in rescuing one escapee but did not stay the rest of the night.
 
-[[../Characters/PCs/Sasha|Sasha]], [[../Characters/PCs/Amelia|Amelia]], [[../Characters/PCs/Zeffér|Zeffér]] and [[../Characters/NPCs/Trisha|Trisha]] were aware of what was happening but decided to leave the party to get cake instead.
+[Sasha](../Characters/PCs/Sasha.md#), [Amelia](../Characters/PCs/Amelia.md#), [Zeffér](../Characters/PCs/Zeff%C3%A9r.md#) and [Trisha](../Characters/NPCs/Trisha.md#) were aware of what was happening but decided to leave the party to get cake instead.
 
-In [[../Sessions/Session 4|Session 4]], [[../Characters/PCs/Maggie|Maggie]] learnt that more humans escaped than just the one's [[../Characters/PCs/Saul|Saul]] saved. These witnesses begin going missing and many of the factions want to find them for their own purposes. [[../Characters/PCs/Maggie|Maggie]] is tasks with tracking down two of these witnesses.
+In [Session 4](../Sessions/Session%204.md#), [Maggie](../Characters/PCs/Maggie.md#) learnt that more humans escaped than just the one's [Saul](../Characters/PCs/Saul.md#) saved. These witnesses begin going missing and many of the factions want to find them for their own purposes. [Maggie](../Characters/PCs/Maggie.md#) is tasks with tracking down two of these witnesses.

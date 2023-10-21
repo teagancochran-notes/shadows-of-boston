@@ -1,8 +1,8 @@
 ---
 tags: character/npc
 organisations:
- - "[[Regatta|Regatta]]"
-bloodline: "[[Ventrue|Ventrue]]"
+ - "[Regatta](Regatta.md#)"
+bloodline: "[Ventrue](Ventrue.md#)"
 species: Vampire
 ---
 # Appearances/Mentions

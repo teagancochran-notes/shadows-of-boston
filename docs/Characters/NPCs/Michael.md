@@ -2,10 +2,10 @@
 tags:
   - character/npc
 organisations:
-  - "[[Camarilla|Camarilla]]"
+  - "[Camarilla](Camarilla.md#)"
 species:
 ---
 # Notes
-- [[./Kirkman|Kirkman]]'s money man
+- [Kirkman](./Kirkman.md#)'s money man
 # Appearances/Mentions
 

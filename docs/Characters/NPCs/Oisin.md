@@ -4,12 +4,12 @@ tags:
 aliases:
   - Timber
 organisations:
-  - "[[../../Organisations/Anarchs|Anarchs]]"
-bloodline: "[[Brujah|Brujah]]"
+  - "[Anarchs](../../Organisations/Anarchs.md#)"
+bloodline: "[Brujah](Brujah.md#)"
 species: Vampire
 ---
 # Notes
-## [[../../Sessions/Session 1|Session 1]]
+## [Session 1](../../Sessions/Session%201.md#)
 * Irish
 * **Appearance**
 	* Not very tall
@@ -21,7 +21,7 @@ species: Vampire
 	* Super green eyes
 	* Pale
 	* Scarring up his arms
-* Known in the [[../../Organisations/Anarchs|Anarchs]] as 'Timber'
+* Known in the [Anarchs](../../Organisations/Anarchs.md#) as 'Timber'
 
 # Appearances/Mentions
 
