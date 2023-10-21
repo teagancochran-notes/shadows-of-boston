@@ -12,6 +12,10 @@ on:
       - 'mkdocs.yml'
       - 'requirements.txt'
 
+concurrency: 
+  group: ${{ github.head_ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
   pages: write
