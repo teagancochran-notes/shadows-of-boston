@@ -7,7 +7,7 @@ aliases:
   - Solomon Sutherland
 organisations: []
 species: Vampire
-bloodline: "[Nosferatu](Nosferatu.md#)"
+bloodline: "[[Nosferatu|Nosferatu]]"
 ---
 
 
