@@ -2,7 +2,7 @@
 tags:
   - character/pc
 organisations:
-  - "[Anarchs](Anarchs.md#)"
+  - "[[Anarchs|Anarchs]]"
 species: Vampire
 ---
 
