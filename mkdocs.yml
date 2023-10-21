@@ -81,10 +81,10 @@ plugins:
   - meta-descriptions
   - git-revision-date-localized:
       type: date
-      fallback_to_build_date: true
+      fallback_to_build_date: false
       locale: en
-      custom_format: "%A %d %B %Y"
-      enable_creation_date: true
+      custom_format: "%d %A %B %Y"
+      enable_creation_date: false
   - ezlinks:
         wikilinks: true
   - awesome-pages
