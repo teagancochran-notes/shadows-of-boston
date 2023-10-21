@@ -33,9 +33,8 @@ theme:
     features:
         - navigation.indexes
         - navigation.top
-        - navigation.tabs
-        - navigation.tabs.sticky
-        - navigation.expand
+        - navigation.footer
+        - navigation.path
         - search.suggest
         - search.highlight
         
@@ -83,7 +82,7 @@ plugins:
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
-      locale: fr
+      locale: en
       custom_format: "%A %d %B %Y"
       enable_creation_date: true
   - ezlinks:
@@ -94,8 +93,6 @@ plugins:
       custom-attributes: 'assets/css/custom_attributes.css'
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
-  - tags:
-      tags_file: tags.md
   - encryptcontent:
       title_prefix: '🔐'
       summary: 'Private page'
@@ -122,6 +119,7 @@ extra_css:
     - assets/css/custom_attributes.css
     - assets/css/customization.css
 extra:
+  generator: false
   SEO: assets/meta/SEO.png
   comments: false #disable comments globally
   generate_graph: true #generate the graph of the site
