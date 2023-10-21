@@ -4,7 +4,7 @@ tags:
 aliases:
   - Myers
 organisations:
-  - "[[Anarchs|Anarchs]]"
+  - "[Anarchs](Anarchs.md#)"
 species: Vampire
 ---
 
