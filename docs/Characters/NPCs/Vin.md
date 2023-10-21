@@ -6,6 +6,6 @@ species: Vampire
 ---
 
 # Notes
-- Independent vampire who runs the underworld [[../../../Nosferatu|Nosferatu]] information network
+- Independent vampire who runs the underworld [Nosferatu](../../../Nosferatu.md#) information network
 # Appearances/Mentions
 
