@@ -2,7 +2,7 @@
 tags:
   - character/npc
 organisations:
-  - "[Regatta](Regatta.md#)"
+  - "[[Regatta|Regatta]]"
 species: Vampire
 aliases:
   - Dan

@@ -3,8 +3,8 @@ tags: [MOC/1]
 ---
 # Cities
 %% Begin Waypoint %%
-- **[Boston](./Boston/index.md#)**
-- **[LA](./LA/index.md#)**
-- **[New York](./New%20York/index.md#)**
+- **[[./Boston/index|Boston]]**
+- **[[./LA/index|LA]]**
+- **[[./New York/index|New York]]**
 
 %% End Waypoint %%

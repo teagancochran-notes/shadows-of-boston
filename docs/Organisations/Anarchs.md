@@ -3,22 +3,22 @@ tags: [organisation]
 aliases: Anarchs of Boston
 ---
 
-**Leader**:: [Oisin](../Characters/NPCs/Oisin.md#)
+**Leader**:: [[../Characters/NPCs/Oisin|Oisin]]
 
-**Members**:: <div hidden id="Members_values">[Dean](../Characters/NPCs/Dean.md#), [Oisin](../Characters/NPCs/Oisin.md#), [Yasmin](../Characters/NPCs/Yasmin.md#), [Sasha](../Characters/PCs/Sasha.md#)</div>
-- [Dean](../Characters/NPCs/Dean.md#)
-- [Oisin](../Characters/NPCs/Oisin.md#)
-- [Sasha](../Characters/PCs/Sasha.md#)
-- [Yasmin](../Characters/NPCs/Yasmin.md#)
+**Members**:: <div hidden id="Members_values">[[../Characters/NPCs/Dean|Dean]], [[../Characters/NPCs/Oisin|Oisin]], [[../Characters/NPCs/Yasmin|Yasmin]], [[../Characters/PCs/Sasha|Sasha]]</div>
+- [[../Characters/NPCs/Dean|Dean]]
+- [[../Characters/NPCs/Oisin|Oisin]]
+- [[../Characters/PCs/Sasha|Sasha]]
+- [[../Characters/NPCs/Yasmin|Yasmin]]
 
-- [Dean](../Characters/NPCs/Dean.md#)
-- [Oisin](../Characters/NPCs/Oisin.md#)
-- [Sasha](../Characters/PCs/Sasha.md#)
-- [Yasmin](../Characters/NPCs/Yasmin.md#)
+- [[../Characters/NPCs/Dean|Dean]]
+- [[../Characters/NPCs/Oisin|Oisin]]
+- [[../Characters/PCs/Sasha|Sasha]]
+- [[../Characters/NPCs/Yasmin|Yasmin]]
 
 # Notes
-[Session 1](../Sessions/Session%201.md#)
-- [Trisha](../Characters/NPCs/Trisha.md#) is an undercover [Regatta](./Regatta.md#) agent
-- [Anarchs](Anarchs.md#) keep the Masquerade up but fine with people being in the limelight and using technology ^32ab23
-[Session 4](../Sessions/Session%204.md#)
-- [Anarchs](Anarchs.md#) want freedom for Vampires
+[[../Sessions/Session 1|Session 1]]
+- [[../Characters/NPCs/Trisha|Trisha]] is an undercover [[./Regatta|Regatta]] agent
+- [[Anarchs|Anarchs]] keep the Masquerade up but fine with people being in the limelight and using technology ^32ab23
+[[../Sessions/Session 4|Session 4]]
+- [[Anarchs|Anarchs]] want freedom for Vampires

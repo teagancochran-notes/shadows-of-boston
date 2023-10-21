@@ -2,32 +2,32 @@
 tags: [organisation]
 ---
 
-**Leader**:: [Swan](../Characters/NPCs/Swan.md#)
+**Leader**:: [[../Characters/NPCs/Swan|Swan]]
 ## Members
 ### Council Members and Representatives
 | Counciller        | Rep        | Bloodline     |
 | ----------------- | ---------- | ------------- |
-| [Emmitt Delmar](../Characters/NPCs/Emmitt%20Delmar.md#) | [Maggie](../Characters/PCs/Maggie.md#) | [Tzimisce](../../Tzimisce.md#)  |
-| [Swan](../Characters/NPCs/Swan.md#)          | [Zeffér](../Characters/PCs/Zeff%C3%A9r.md#) | Unknown       |
-| [Owl](../Characters/NPCs/Owl.md#)           | [Trisha](../Characters/NPCs/Trisha.md#) | [Malkavian](../../Malkavian.md#) |
-| [Hawk](../Characters/NPCs/Hawk.md#)          |            |    |
-| [Goose](Goose.md#)         | [Damien](../Characters/NPCs/Damien.md#) | [Brujah](../../Brujah.md#)    |
+| [[../Characters/NPCs/Emmitt Delmar|Emmitt Delmar]] | [[../Characters/PCs/Maggie|Maggie]] | [[../../Tzimisce|Tzimisce]]  |
+| [[../Characters/NPCs/Swan|Swan]]          | [[../Characters/PCs/Zeffér|Zeffér]] | Unknown       |
+| [[../Characters/NPCs/Owl|Owl]]           | [[../Characters/NPCs/Trisha|Trisha]] | [[../../Malkavian|Malkavian]] |
+| [[../Characters/NPCs/Hawk|Hawk]]          |            |    |
+| [[Goose|Goose]]         | [[../Characters/NPCs/Damien|Damien]] | [[../../Brujah|Brujah]]    |
 
-**Members**:: <div hidden id="Members_values">[Maggie](../Characters/PCs/Maggie.md#), [Zeffér](../Characters/PCs/Zeff%C3%A9r.md#), [Emmitt Delmar](../Characters/NPCs/Emmitt%20Delmar.md#), [Hawk](../Characters/NPCs/Hawk.md#), [Kenji](../Characters/NPCs/Kenji.md#), [Owl](../Characters/NPCs/Owl.md#), [Swan](../Characters/NPCs/Swan.md#), [Trisha](../Characters/NPCs/Trisha.md#)</div>
-- [Emmitt Delmar](../Characters/NPCs/Emmitt%20Delmar.md#)
-- [Hawk](../Characters/NPCs/Hawk.md#)
-- [Kenji](../Characters/NPCs/Kenji.md#)
-- [Maggie](../Characters/PCs/Maggie.md#)
-- [Owl](../Characters/NPCs/Owl.md#)
-- [Swan](../Characters/NPCs/Swan.md#)
-- [Trisha](../Characters/NPCs/Trisha.md#)
-- [Zeffér](../Characters/PCs/Zeff%C3%A9r.md#)
+**Members**:: <div hidden id="Members_values">[[../Characters/PCs/Maggie|Maggie]], [[../Characters/PCs/Zeffér|Zeffér]], [[../Characters/NPCs/Emmitt Delmar|Emmitt Delmar]], [[../Characters/NPCs/Hawk|Hawk]], [[../Characters/NPCs/Kenji|Kenji]], [[../Characters/NPCs/Owl|Owl]], [[../Characters/NPCs/Swan|Swan]], [[../Characters/NPCs/Trisha|Trisha]]</div>
+- [[../Characters/NPCs/Emmitt Delmar|Emmitt Delmar]]
+- [[../Characters/NPCs/Hawk|Hawk]]
+- [[../Characters/NPCs/Kenji|Kenji]]
+- [[../Characters/PCs/Maggie|Maggie]]
+- [[../Characters/NPCs/Owl|Owl]]
+- [[../Characters/NPCs/Swan|Swan]]
+- [[../Characters/NPCs/Trisha|Trisha]]
+- [[../Characters/PCs/Zeffér|Zeffér]]
 
-[Session 1](../Sessions/Session%201.md#)
-	[Swan](../Characters/NPCs/Swan.md#) is the *founder* and *president* of the [Regatta](Regatta.md#)
+[[../Sessions/Session 1|Session 1]]
+	[[../Characters/NPCs/Swan|Swan]] is the *founder* and *president* of the [[Regatta|Regatta]]
 
-[Session 4](../Sessions/Session%204.md#)
-- The [Regatta](Regatta.md#) want to protect humans and improve their lives as they see them as their cattle
+[[../Sessions/Session 4|Session 4]]
+- The [[Regatta|Regatta]] want to protect humans and improve their lives as they see them as their cattle
 
-[Session 5](../Sessions/Session%205.md#)
-- [Goose](Goose.md#) joined the Regatta a couple of years ago
+[[../Sessions/Session 5|Session 5]]
+- [[Goose|Goose]] joined the Regatta a couple of years ago

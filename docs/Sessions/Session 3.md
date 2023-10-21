@@ -11,13 +11,13 @@ title: The Butcher
 attended: false
 summary: 
 pcs:
-  - "[The Butcher](The%20Butcher.md#)"
+  - "[[The Butcher|The Butcher]]"
 active-npcs: 
 mentioned-npcs:
 ---
 
 > [!previously]- Previously
-> ![Session 2](./Session%202.md#summary)
+> ![[./Session 2#^summary|Session 2 > ^summary]]
 
 # Summary
 nil ^summary

@@ -2,9 +2,9 @@
 tags:
   - character/pc
 organisations:
-  - "[Regatta](Regatta.md#)"
+  - "[[Regatta|Regatta]]"
 species: Vampire
-sire: "[Swan](Swan.md#)"
+sire: "[[Swan|Swan]]"
 ---
 - Zeffer is looking for information about his sire
-	- He has shared this with [Maggie](./Maggie.md#) who has agreed to help
+	- He has shared this with [[./Maggie|Maggie]] who has agreed to help

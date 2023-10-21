@@ -4,7 +4,7 @@ tags:
 aliases:
   - Tundra
 organisations:
-  - "[Anarchs](Anarchs.md#)"
+  - "[[Anarchs|Anarchs]]"
 species: Vampire
 ---
 # Appearances/Mentions
