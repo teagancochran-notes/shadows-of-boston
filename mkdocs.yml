@@ -4,8 +4,8 @@ site_url: https://teagancochran-notes.github.io/shadows-of-boston-gh/ # Change t
 
 theme:
     name: 'material'
-    logo: assets/meta/logo.png
-    favicon: assets/meta/favicon.webp
+    logo: assets/meta/favicon.png
+    favicon: assets/meta/favicon.png
     custom_dir: overrides
     font:
         text: Ubuntu
