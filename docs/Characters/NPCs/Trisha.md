@@ -4,26 +4,26 @@ tags:
 aliases:
   - Bluejay
 organisations:
-  - "[Regatta](Regatta.md#)"
-bloodline: "[Malkavian](Malkavian.md#)"
+  - "[[Regatta|Regatta]]"
+bloodline: "[[Malkavian|Malkavian]]"
 species: Vampire
 ---
 # Relationships
 | Person     | Relationship | Sentiment | Notes |
 | ---------- | ------------ | --------- | ----- |
-| [Zeffér](../PCs/Zeff%C3%A9r.md#) | Colleague    | Positive  |       |
+| [[../PCs/Zeffér|Zeffér]] | Colleague    | Positive  |       |
 ## Relationship Log
-[Session 1](../../Sessions/Session%201.md#): [Trisha](Trisha.md#) -> [Zeffér](../PCs/Zeff%C3%A9r.md#) - Colleague
+[[../../Sessions/Session 1|Session 1]]: [[Trisha|Trisha]] -> [[../PCs/Zeffér|Zeffér]] - Colleague
 
 # Notes
-[Session 1](../../Sessions/Session%201.md#)
+[[../../Sessions/Session 1|Session 1]]
 - 12 years old
 - Long brownish hair
 - Oversized bear as a backpack
 	- Sewed up bullet holes
 	- Mr Fluff
-- Uses [Auspex](../../../Auspex.md#)
-- Representative of [Owl](./Owl.md#)
+- Uses [[../../../Auspex|Auspex]]
+- Representative of [[./Owl|Owl]]
 	- **Mask**: --Sparrow-- Bluejay
 
 # Appearances/Mentions
