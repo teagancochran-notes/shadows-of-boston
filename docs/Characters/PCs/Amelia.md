@@ -7,10 +7,10 @@ species: Vampire
 # Relationships
 | Person    | Relationship | Sentiment |
 | --------- | ------------ | --------- |
-| [[../NPCs/Felix|Felix]] | Bodyguard    | Positive          |
+| [Felix](../NPCs/Felix.md#) | Bodyguard    | Positive          |
 
 ## Relationship Log
 
 # Notes
-- Came from [[../../Places/LA/index|LA]]
-* Escorted by [[./Maggie|Maggie]] and [[./Zeffér|Zeffér]] to [[../../Events/The Incident|Kirkman's birthday party]]
+- Came from [LA](../../Places/LA/index.md#)
+* Escorted by [Maggie](./Maggie.md#) and [Zeffér](./Zeff%C3%A9r.md#) to [Kirkman's birthday party](../../Events/The%20Incident.md#)
