@@ -42,29 +42,8 @@ When [[../Characters/NPCs/Kirkman|Kirkman]] returns from calming down he announc
 She heads up the elevator before they open the main doors for the rest of the guests. When she reaches the fourth floor, she sees [[Saul |a kindred]] blocking the main door and closes the elevator doors. [[Saul | The unknown kindred]] rips the doors open to find a dagger at his neck. He states his intention to save the humans and warns [[../Characters/PCs/Maggie|Maggie]] not to get in his way and offers a boon if she will help him. [[../Characters/PCs/Maggie|Maggie]] calls HQ to get her next steps and helps [[../Characters/PCs/Saul|the kindred]] by giving him one person and leaves him a business card. When the main doors open, she leaves the party.
 <br/>
 [[../Characters/PCs/Maggie|Maggie]] later meets [[../Characters/PCs/Saul|a kindred]] by the river, having tracked him via the tracker in the business card. She tells him that she will leave something at this spot when she needs him in the future. ^summary
-# Characters
-| Character                                                         | Organisations                             |
-| ----------------------------------------------------------------- | ----------------------------------------- |
-| [[../Characters/NPCs/Felix\|Felix]]                               | \-                                        |
-| [[../Characters/NPCs/Sophia\|Sophia]]                             | \-                                        |
-| [[../Characters/NPCs/Emmitt Delmar\|Emmitt Delmar]]               | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Hawk\|Hawk]]                                 | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Owl\|Owl]]                                   | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Swan\|Swan]]                                 | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Trisha\|Trisha]]                             | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/PCs/Maggie\|Maggie]]                              | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/PCs/Zeffér\|Zeffér]]                              | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Dollar Store Sheriff\|Dollar Store Sheriff]] | [[../Organisations/Camarilla\|Camarilla]] |
-| [[../Characters/NPCs/Kirkman\|Kirkman]]                           | [[../Organisations/Camarilla\|Camarilla]] |
-| [[../Characters/NPCs/Dean\|Dean]]                                 | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Oisin\|Oisin]]                               | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Yasmin\|Yasmin]]                             | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/PCs/Sasha\|Sasha]]                                | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/PCs/Amelia\|Amelia]]                              |                                           |
-| [[../Characters/PCs/Saul\|Saul]]                                  |                                           |
-
 # Recording
-<audio src="C:/Users/Teagan/OneDrive/Documents/Games/Vampire Recordings/Session 1.mp3" controls></audio>
+<iframe width="100%" height="100" src="https://www.youtube.com/embed/qZFgTYo4MV4?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
 # Notes
 ## 1 Week Ago
 * Meeting between [[../Organisations/Anarchs|Anarchs]] in the centre of Boston
@@ -74,7 +53,7 @@ She heads up the elevator before they open the main doors for the rest of the gu
 * [[../Characters/NPCs/Yasmin|Yasmin]]
 * [[../Characters/NPCs/Kirkman|Kirkman]]'s birthday is in a week's time
 ## 4 Day To Present Day
-**Location**:: [[../Places/Boston/Regatta HQ|Regatta HQ]], [[Regatta HQ Council Room|Regatta HQ Council Room]]
+**Location**:: [[Regatta HQ|Regatta HQ]], [[Regatta HQ Council Room|Regatta HQ Council Room]]
 
 [[../Characters/NPCs/Kirkman|Kirkman]]
 
