@@ -1,5 +1,5 @@
-site_name: Shadows of Boston (Github) # Change this to your site name
-site_description: A cool description of your site
+site_name: Shadows of Boston # Change this to your site name
+site_description: Notes for the Vampire 5e chronicle Shadows of Boston
 site_url: https://teagancochran-notes.github.io/shadows-of-boston-gh/ # Change this to your site URL
 
 theme:
@@ -8,8 +8,8 @@ theme:
     favicon: assets/meta/favicon.png
     custom_dir: overrides
     font:
-        text: Ubuntu
-        code: Ubuntu Mono
+        text: Roboto
+        code: Roboto Mono
     language: en
     palette:
 
@@ -25,7 +25,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
+      primary: black
       accent: blue
       toggle:
         icon: material/weather-sunny
@@ -122,7 +122,7 @@ extra:
   generator: false
   SEO: assets/meta/SEO.png
   comments: false #disable comments globally
-  generate_graph: true #generate the graph of the site
+  generate_graph: false #generate the graph of the site
   attachments: 'assets/img' #path to the folder where the attachments are stored
   no-auto-h1: false #disable the automatic generation of h1 if no h1 is found
   blog_list:
