@@ -4,7 +4,7 @@ recording: https://www.youtube.com/watch?v=U-Tb-Q3P8D8
 tags:
   - session
   - status/linking
-date: 
+date: 2022-01-22
 chapter: A Night to Remember
 session: 2
 title: The First Taste
@@ -32,28 +32,8 @@ active-npcs:
 
 # Summary
 [[../Characters/PCs/Zeffér|Zeffér]] and [[../Characters/PCs/Sasha|Sasha]] are given the task by their respective organisations to capture [[../Characters/NPCs/Damien Hausberg|Damien Hausberg]] - an escapee from [[../Events/The Incident|The Incident]]. Meanwhile, [[../Characters/PCs/Saul|Saul]] is tasked to kill the hunter that his after the escapees. [[../Characters/PCs/Sasha|Sasha]] hires Magi, [[../Characters/NPCs/Kiki|Kiki]] to locate [[../Characters/NPCs/Damien Hausberg|Damien]]. They, [[../Characters/PCs/Zeffér|Zeffér]] and [[../Characters/PCs/Saul|Saul]] all find themselves at an office complex where [[../Characters/PCs/Zeffér|Zeffér]] and [[../Characters/PCs/Sasha|Sasha]] team up and fight [[../Characters/PCs/Saul|Saul]] and the Feds. The fight eventually leads them to [[../Places/Boston/Miss Kiki's Healing Center|Kiki's Shop]] were they encounter the hunter [[../Characters/PCs/Saul|Saul]] is after, where [[../Characters/NPCs/Kiki|Kiki]] is shot and [[../Characters/PCs/Zeffér|Zeffér]] is [[Entrancement|entranced]]. The group stall long enough for the [[../Organisations/Anarchs|Anarchs]] to show up and get [[../Characters/NPCs/Damien Hausberg|Damien]]. Unbeknownst to them, [[../Characters/PCs/Zeffér|Zeffér]] also stalls to allow [[../Organisations/Regatta|Regatta]] agents to get in place to intercept. Although ultimately successful in his mission, [[../Characters/PCs/Zeffér|Zeffér]] loses control of the beast which has fatal consequences for his driver. Accidents happen, or so they say. ^summary
-
-# Characters
-
-| File                                                    | Organisations                             |
-| ------------------------------------------------------- | ----------------------------------------- |
-| [[../Characters/NPCs/Damien Hausberg\|Damien Hausberg]] | \-                                        |
-| [[../Characters/NPCs/Kenji\|Kenji]]                     | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Kiki\|Kiki]]                       |                                           |
-| [[../Characters/NPCs/Kirkman\|Kirkman]]                 | [[../Organisations/Camarilla\|Camarilla]] |
-| [[../Characters/NPCs/Oisin\|Oisin]]                     | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Swan\|Swan]]                       | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Trisha\|Trisha]]                   | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Vin\|Vin]]                         |                                           |
-| [[../Characters/NPCs/Yasmin\|Yasmin]]                   | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/PCs/Maggie\|Maggie]]                    | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/PCs/Sasha\|Sasha]]                      | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/PCs/Saul\|Saul]]                        |                                           |
-| [[../Characters/PCs/Zeffér\|Zeffér]]                    | [[../Organisations/Regatta\|Regatta]]     |
-
-
 # Recording
-<audio src="C:/Users/Teagan/OneDrive/Documents/Games/Vampire Recordings/Session 2.mp3" controls></audio>
+<iframe width="100%" height="100" src="https://www.youtube.com/embed/U-Tb-Q3P8D8?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
 # Notes
 * Humans have been feeling unsafe and weird news stories have been popping up by small independent journalists about monsters that roam the streets
 * [[../Characters/PCs/Maggie|Maggie]] and [[../Characters/PCs/Zeffér|Zeffér]] have gone on a couple more jobs together

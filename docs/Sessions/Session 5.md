@@ -38,34 +38,6 @@ mentioned-npcs:
 
 # Summary
 ^summary
-# Characters
-
-| File                                                    | Organisations                             |
-| ------------------------------------------------------- | ----------------------------------------- |
-| [[../Characters/NPCs/Damien Hausberg\|Damien Hausberg]] | \-                                        |
-| [[../Characters/NPCs/Damien\|Damien]]                   | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Dean\|Dean]]                       | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Desirae\|Desirae]]                 |                                           |
-| [[../Characters/NPCs/Emmitt Delmar\|Emmitt Delmar]]     | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Felix\|Felix]]                     | \-                                        |
-| [[../Characters/NPCs/Kiki\|Kiki]]                       |                                           |
-| [[../Characters/NPCs/Kirkman\|Kirkman]]                 | [[../Organisations/Camarilla\|Camarilla]] |
-| [[../Characters/NPCs/Louisa Sinclair\|Louisa Sinclair]] | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Mark 1\|Mark 1]]                   | \-                                        |
-| [[../Characters/NPCs/Myers Fuller\|Myers Fuller]]       | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Oisin\|Oisin]]                     | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Sarah Border\|Sarah Border]]       |                                           |
-| [[../Characters/NPCs/Sophia\|Sophia]]                   | \-                                        |
-| [[../Characters/NPCs/Swan\|Swan]]                       | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Trisha\|Trisha]]                   | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Yasmin\|Yasmin]]                   | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/PCs/Amelia\|Amelia]]                    |                                           |
-| [[../Characters/PCs/Maggie\|Maggie]]                    | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/PCs/Sasha\|Sasha]]                      | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/PCs/Saul\|Saul]]                        |                                           |
-| [[../Characters/PCs/Zeffér\|Zeffér]]                    | [[../Organisations/Regatta\|Regatta]]     |
-
-
 # Recording
 <iframe width="100%" height="100" src="https://www.youtube.com/embed/_xd6sa2bHdg?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
 
