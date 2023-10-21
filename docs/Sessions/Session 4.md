@@ -67,38 +67,6 @@ The characters attended an [[../Events/Art Gallery Opening|opening an art galler
 <br/>
 In an attempt to keep people from leaving the show in fear, [[../Characters/PCs/Amelia|Amelia]] puts on the performance of a lifetime, even convincing [[../Characters/NPCs/Kirkman|Kirkman]] it was all part of the show. Later, [[../Characters/PCs/Amelia|Amelia]] approaches [[../Characters/NPCs/Dean|Dean]] and convinces him to leave with her. She gets him to give her information about her mother as well as [[../Characters/NPCs/Oisin|Oisin]] and at the hotel they sleep together and she gives him a [[Lingering Kiss|Lingering Kiss]].
 ^summary
-# Characters
-| File                                                              | Organisations                             |
-| ----------------------------------------------------------------- | ----------------------------------------- |
-| [[../Characters/NPCs/Benjamin\|Benjamin]]                         |                                           |
-| [[../Characters/NPCs/Damien Hausberg\|Damien Hausberg]]           | \-                                        |
-| [[../Characters/NPCs/Dean\|Dean]]                                 | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Desirae\|Desirae]]                           |                                           |
-| [[../Characters/NPCs/Dollar Store Sheriff\|Dollar Store Sheriff]] | [[../Organisations/Camarilla\|Camarilla]] |
-| [[../Characters/NPCs/Emmitt Delmar\|Emmitt Delmar]]               | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Felix\|Felix]]                               | \-                                        |
-| [[../Characters/NPCs/Kenji\|Kenji]]                               | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Kiki\|Kiki]]                                 |                                           |
-| [[../Characters/NPCs/Kirkman\|Kirkman]]                           | [[../Organisations/Camarilla\|Camarilla]] |
-| [[../Characters/NPCs/Mark 1\|Mark 1]]                             | \-                                        |
-| [[../Characters/NPCs/Melissa Bourke\|Melissa Bourke]]             |                                           |
-| [[../Characters/NPCs/Michael\|Michael]]                           | [[../Organisations/Camarilla\|Camarilla]] |
-| [[../Characters/NPCs/Oisin\|Oisin]]                               | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Sarah Border\|Sarah Border]]                 |                                           |
-| [[../Characters/NPCs/Sebastian\|Sebastian]]                       | \-                                        |
-| [[../Characters/NPCs/Sophia\|Sophia]]                             | \-                                        |
-| [[../Characters/NPCs/Swan\|Swan]]                                 | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Styks\|Styks]]                               |                                           |
-| [[../Characters/NPCs/The Butcher\|The Butcher]]                   |                                           |
-| [[../Characters/NPCs/Trisha\|Trisha]]                             | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Vin\|Vin]]                                   |                                           |
-| [[../Characters/PCs/Amelia\|Amelia]]                              |                                           |
-| [[../Characters/PCs/Maggie\|Maggie]]                              | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/PCs/Sasha\|Sasha]]                                | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/PCs/Saul\|Saul]]                                  |                                           |
-| [[../Characters/PCs/Zeffér\|Zeffér]]                              | [[../Organisations/Regatta\|Regatta]]     |
-
-
 # Recording
 <iframe width="100%" height="100" src="https://www.youtube.com/embed/ZN5j4_I3n-k?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
 
