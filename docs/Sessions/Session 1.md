@@ -73,7 +73,7 @@ She heads up the elevator before they open the main doors for the rest of the gu
 		Believes [[../Characters/NPCs/Kirkman|Kirkman]] is biding his time
 		Have time to scout out
 
-[[B|B]]
+[[../Characters/NPCs/Owl|Owl]]
 	[[../../Malkavian|Malkavian]]
 	Vision: seen a web, someone tried up bound at the centre, dog trying to free them, wolf somewhere, loyal cutting ties
 
