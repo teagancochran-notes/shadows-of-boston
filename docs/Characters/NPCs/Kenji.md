@@ -1,10 +1,10 @@
 ---
 tags: character/npc
 organisations:
- - "[Regatta](../../Organisations/Regatta.md#)"
+ - "[[../../Organisations/Regatta|Regatta]]"
 species: Human
 ---
 # Notes
-- Works for [Swan](./Swan.md#) in the [Regatta](../../Organisations/Regatta.md#)
+- Works for [[./Swan|Swan]] in the [[../../Organisations/Regatta|Regatta]]
 # Appearances/Mentions
 
