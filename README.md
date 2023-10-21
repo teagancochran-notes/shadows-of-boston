@@ -1,7 +1,6 @@
----
-title: Configuration
----
+**Shadows of Boston Notes**: https://teagancochran-notes.github.io/shadows-of-boston/
 
+# Obsidian Publish
 - [Obsidian Plugin](https://github.com/ObsidianPublisher/obsidian-github-publisher)
 - Template :
   - To use with [Github Pages](https://github.com/ObsidianPublisher/template-gh-pages)
