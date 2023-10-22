@@ -2,7 +2,10 @@
 cssclasses:
   - embed-strict
 tags:
-  - character/pc
+  - character_pc
+  - Vampire
+  - Regatta
+  - Tzimisce
 aliases:
   - Samantha
   - Samantha Sutherland
@@ -17,6 +20,7 @@ sire: "[[Emmitt Delmar|Emmitt Delmar]]"
 dob: 1989-12-13
 dod: 2010-01-17
 ---
+
 **Original Name:** [[Maggie|Samantha Sutherland]]
 **Age**: P31Y8M2W4D
 
