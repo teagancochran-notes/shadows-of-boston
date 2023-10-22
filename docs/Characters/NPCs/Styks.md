@@ -6,10 +6,9 @@ species: Vampire
 bloodline: "[[Nosferatu|Nosferatu]]"
 ---
 # Notes
-- Hired to assassinate [[./Desirae|Desirae]] by the [[../../Organisations/Anarchs|Anarchs]]
-- Accidently shot [[../PCs/Saul|Saul]] into [[../../../Torpor|Torpor]]
-- Gave a business card to [[../PCs/Zeffér|Zeffér]]
-# Appearances/Mentions
+- Hired to assassinate [[Desirae|Desirae]] by the [[Anarchs|Anarchs]]
+- Accidently shot [[Saul|Saul]] into [[Torpor|Torpor]]
+- Gave a business card to [[Zeffér|Zeffér]]
 
 ```query
 path:Sessions Styks
