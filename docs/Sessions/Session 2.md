@@ -1,9 +1,9 @@
 ---
 template-version: 1.1
+status: linking
 recording: https://www.youtube.com/watch?v=U-Tb-Q3P8D8
 tags:
   - session
-  - status/linking
 date: 2022-01-22
 chapter: A Night to Remember
 session: 2
