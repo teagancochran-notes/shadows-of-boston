@@ -141,7 +141,7 @@ She heads up the elevator before they open the main doors for the rest of the gu
 We are tailed to the destination by paparazzi but manage to lose them
 
 ### Other Notes
-![[Anarchs#^32ab23|Anarchs > ^32ab23]]
+
 
 ### @ Party
 * Need to leave phones at the entrance
