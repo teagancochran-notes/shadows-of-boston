@@ -5,5 +5,4 @@ organisations:
 bloodline: "[[Lasombra|Lasombra]]"
 species: Vampire
 ---
-# Appearances/Mentions
 
