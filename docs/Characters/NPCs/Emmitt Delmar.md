@@ -33,4 +33,9 @@ species: Vampire
 	- Goes to pawn shops and buys wedding rings
 	- Steals rings of broken love
 
+# Appearances/Mentions
 
+- [[Session 1|Session 1]] (Active)
+- [[Session 4|Session 4]] (Active)
+- [[Session 5|Session 5]] (Active)
+- [[Session 6|Session 6]] (Active)
