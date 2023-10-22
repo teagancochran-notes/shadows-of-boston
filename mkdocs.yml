@@ -119,7 +119,12 @@ extra_css:
     - assets/css/admonition.css
     - assets/css/custom_attributes.css
     - assets/css/customization.css
+    - assets/css/extra.css
 extra:
+  status:
+    processed: Notes complete
+    linking: Requires linking to other files
+    incomplete: Notes are incomplete
   generator: false
   SEO: assets/meta/SEO.png
   comments: false #disable comments globally
