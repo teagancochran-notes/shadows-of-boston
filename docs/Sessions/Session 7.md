@@ -1,9 +1,9 @@
 ---
 template-version: 1.1
+status: incomplete
 recording: ""
 tags:
   - session
-  - status/incomplete
 date: 2023-03-11
 chapter: Voices in the Night
 session: 7

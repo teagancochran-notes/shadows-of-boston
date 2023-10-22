@@ -1,9 +1,9 @@
 ---
 template-version: 1.1
+status: processed
 recording: https://www.youtube.com/watch?v=qZFgTYo4MV4
 tags:
   - session
-  - status/processed
 date: 2021-12-11
 chapter: A Night to Remember
 session: 1

@@ -1,9 +1,9 @@
 ---
 template-version: 1.1
+status: incomplete
 recording: https://www.youtube.com/watch?v=JIPmNnXnG8A
 tags:
   - session
-  - status/incomplete
 date: 
 chapter: A Night to Remember
 session: 3
