@@ -6,6 +6,5 @@ organisations:
 species:
 ---
 # Notes
-- [[./Kirkman|Kirkman]]'s money man
-# Appearances/Mentions
+- [[Kirkman|Kirkman]]'s money man
 
