@@ -141,25 +141,7 @@ She heads up the elevator before they open the main doors for the rest of the gu
 We are tailed to the destination by paparazzi but manage to lose them
 
 ### Other Notes
-**Leader**:: [[Oisin|Oisin]]
-
-**Members**:: <div hidden id="Members_values">[[Dean|Dean]], [[Oisin|Oisin]], [[Yasmin|Yasmin]], [[Sasha|Sasha]]</div>
-- [[Dean|Dean]]
-- [[Oisin|Oisin]]
-- [[Sasha|Sasha]]
-- [[Yasmin|Yasmin]]
-
-- [[Dean|Dean]]
-- [[Oisin|Oisin]]
-- [[Sasha|Sasha]]
-- [[Yasmin|Yasmin]]
-
-# Notes
-[[Session 1|Session 1]]
-- [[Trisha|Trisha]] is an undercover [[Regatta|Regatta]] agent
-- [[Anarchs|Anarchs]] keep the Masquerade up but fine with people being in the limelight and using technology
-[[Session 4|Session 4]]
-- [[Anarchs|Anarchs]] want freedom for Vampires
+![[Anarchs#^32ab23|Anarchs > ^32ab23]]
 
 ### @ Party
 * Need to leave phones at the entrance
