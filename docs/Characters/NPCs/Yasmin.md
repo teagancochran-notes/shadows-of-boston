@@ -7,5 +7,4 @@ organisations:
   - "[[Anarchs|Anarchs]]"
 species: Vampire
 ---
-# Appearances/Mentions
 
