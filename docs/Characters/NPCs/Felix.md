@@ -3,6 +3,7 @@ tags: character/npc
 organisations: 
 species: Human
 ---
+
 # Relationships
 | Person     | Relationship | Sentiment | Notes |
 | ---------- | ------------ | --------- | ----- |
