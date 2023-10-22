@@ -296,8 +296,3 @@ active-npcs:
 	- Guards approach him guns drawn
 	- They tell him they will clean it up and that mistakes happen
 		- They move the body really fast
-# To Do
-
-# Questions
-- [ ] @~20:00 Did [[../Characters/PCs/Zeffér|Zeffér]] talk with the [[../Organisations/Anarchs|Anarchs]] to organise the raids?
-- [ ] @~25:00 What was [[../Characters/PCs/Maggie|Maggie]]'s meeting about?

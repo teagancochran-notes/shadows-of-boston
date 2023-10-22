@@ -25,6 +25,3 @@ mentioned-npcs:
 <iframe width="100%" height="100" src="?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
 # Notes
 
-# To Do
-
-# Questions

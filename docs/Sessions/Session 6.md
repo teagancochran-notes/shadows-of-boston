@@ -830,6 +830,3 @@ mentioned-npcs:
 ## Housekeeping
 +1XP (everyone)
 
-# To Do
-- [ ] Get relic off [[../Characters/NPCs/Louisa Sinclair|Louisa]]'s body for [[../Characters/NPCs/Emmitt Delmar|Crow]]
-# Questions
