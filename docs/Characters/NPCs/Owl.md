@@ -1,8 +1,9 @@
 ---
 tags: character/npc
 organisations:
- - "[[Regatta|Regatta]]"
+  - "[[Regatta|Regatta]]"
 bloodline: "[[Lasombra|Lasombra]]"
 species: Vampire
 ---
+
 
