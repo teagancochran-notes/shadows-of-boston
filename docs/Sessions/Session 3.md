@@ -17,10 +17,10 @@ mentioned-npcs:
 ---
 
 > [!previously]- Previously
-> ![[./Session 2#^summary|Session 2 > ^summary]]
+> ![[Session 2#^summary|Session 2 > ^summary]]
 
 # Summary
-nil ^summary
+nil
 # Recording
 <iframe width="100%" height="100" src="https://www.youtube.com/embed/JIPmNnXnG8A?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
 # Notes
