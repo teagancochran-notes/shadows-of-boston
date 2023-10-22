@@ -24,4 +24,8 @@ aliases:
 - Also known as 'Red'
 - Red hair and wears a lot of maroon
 
+# Appearances/Mentions
 
+- [[Session 1|Session 1]] (Mentioned)
+- [[Session 4|Session 4]] (Active)
+- [[Session 5|Session 5]] (Mentioned)

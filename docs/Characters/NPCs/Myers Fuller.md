@@ -13,4 +13,7 @@ species: Vampire
 
 # Notes
 
+# Appearances/Mentions
 
+- [[Session 5|Session 5]] (Active)
+- [[Session 6|Session 6]] (Active)

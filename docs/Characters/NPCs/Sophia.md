@@ -20,4 +20,8 @@ dob: 2006-10-03
 **[[Session 1|Session 1]]**
 - [[Emmitt Delmar|Emmitt]] mentioned that they are looking at MIT for her
 
+# Appearances/Mentions
 
+- [[Session 1|Session 1]] (Mentioned)
+- [[Session 4|Session 4]] (Mentioned)
+- [[Session 5|Session 5]] (Mentioned)
