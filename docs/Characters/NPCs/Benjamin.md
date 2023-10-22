@@ -3,8 +3,8 @@ tags: character/npc
 organisations: []
 species: Vampire
 bloodline: 
-
 ---
+
 # Notes
 - [[Thin-blood|Thin-blood]]
 - [[Dead Flesh|Dead Flesh]]
