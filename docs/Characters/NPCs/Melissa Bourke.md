@@ -1,10 +1,11 @@
 ---
 tags: character/npc
-aliases: [Melissa]
+aliases:
+  - Melissa
 organisations: []
 species: Ghoul
-
 ---
+
 
 # Notes
 - Ex-military
