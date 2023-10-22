@@ -8,19 +8,19 @@ species: Human
 
 
 # Notes
-- [[Session 2|Session 2]]
-	- Assists [[Sasha|Sasha]] locating [[Damien Hausberg|Damien]]
-	- Fought [[Desirae|Desirae]]
-	- Meets [[Zeffér|Zeffér]]
-	- Attacks [[Saul|Saul]]
-	- Becomes [[Saul|Saul]]'s acquaintance
-	- Owed a blood by [[Sasha|Sasha]]
+- [[../../Sessions/Session 2|Session 2]]
+	- Assists [[../PCs/Sasha|Sasha]] locating [[./Damien Hausberg|Damien]]
+	- Fought [[./Desaray|Desaray]]
+	- Meets [[../PCs/Zeffér|Zeffér]]
+	- Attacks [[../PCs/Saul|Saul]]
+	- Becomes [[../PCs/Saul|Saul]]'s acquaintance
+	- Owed a blood by [[../PCs/Sasha|Sasha]]
 	- Was shot in the leg
-	- Previously lived in [[New York|New York]] until the [[Camarilla|Camarilla]] took over
+	- Previously lived in [[../../Places/New York/index|New York]] until the [[../../Organisations/Camarilla|Camarilla]] took over
 	- Takes blood for services
 	- Kindred doctor
-- [[Session 4|Session 4]]
-	- Introduces [[Saul|Saul]] to [[Marrowbrew|Marrowbrew]]
+- [[../../Sessions/Session 4|Session 4]]
+	- Introduces [[../PCs/Saul|Saul]] to [[../../Items/Marrowbrew|Marrowbrew]]
 
 
 ```query
