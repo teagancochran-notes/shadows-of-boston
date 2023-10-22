@@ -526,6 +526,3 @@ mentioned-npcs:
 
 # Gameplay
 +1XP
-# To Do
-
-# Questions
