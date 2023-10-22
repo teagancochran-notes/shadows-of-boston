@@ -1,8 +1,10 @@
 ---
-tags: character/npc
-organisations: []
+tags:
+  - character_npc
+  - Vampire
+organisations: 
 species: Vampire
-status: deceased
+deceased: "true"
 ---
 
 
