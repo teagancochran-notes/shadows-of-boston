@@ -39,53 +39,7 @@ mentioned-npcs:
 ---
 
 > [!previously]- Previously
-> injured [[Saul|Saul]] checks in on his family and overhears a phone call that indicates she may have a lover before meeting with [[Kiki|Kiki]] to gain more information about [[Damien Hausberg|Damien]], where he is introduced to [[Marrowbrew|Marrowbrew]] for the first time and meets [[Kiki|Kiki]]'s runner, [[Benjamin|Benjamin]].
-
-[[Amelia|Amelia]] meets with an [[Sarah Border|an old friend]] who is [[Art Gallery Opening|opening an art gallery]] in [[Boston|Boston]] and agrees to attend.
-
-[[Maggie|Maggie]] has interrogated [[Melissa Bourke|Melissa]] and found that she was previously taken by the Camarilla as they believed she knew about the [[Regatta|Regatta]]. [[Maggie|Maggie]] promises to protect [[Melissa Bourke|Melissa]] and turned her into her [[ghouls|ghoul]]. She has [[Melissa Bourke|Melissa]] look into [[Kirkman|Kirkman]] and [[Ownark|Ownark]] and tries to get a meeting with [[Vin|Vin]].
-
-[[Zeffér|Zeffér]] is summoned to meet with his sire, Asana, who tells Zeffér that he needs to control the beast before [[Kenji|Kenji]] takes him to spar and impresses [[Kenji|Kenji]] when he blocks a surprise attack.
-
-[[Maggie|Maggie]] learns that people from [[The Incident|a birthday party]] are reappearing and that [[Kirkman|Kirkman]] is getting money from [[LA|LA]].
-
-[[Maggie|Maggie]] and [[Zeffér|Zeffér]] investigate a reported sighting of two reappearing witnesses at a [[Homeless Shelter|Homeless Shelter]]. They find one of their marks, a man who under [[Maggie|Maggie]]'s [[Mesmerise|Mesmerise]] reveals he was rescued by a friend known as [[The Rat|The Rat]] but has little memory of [[The Incident|a birthday party]]. The man is revealed to have been turned into a [[Gangrel|Gangrel]] as a fight breaks out, however is is restrained and taken to [[Detainment|Detainment]].
-
-[[Kirkman|Kirkman]] shows a sudden interest in the [[Art Gallery Openinil[[Zeffér|Zeffér]] and [[Sasha|Sasha]] are given the task by their respective organisations to capture [[Damien Hausberg|Damien Hausberg]] - an escapee from [[The Incident|a birthday party]]. Meanwhile, [[Saul|Saul]] is tasked to kill the hunter that his after the escapees. [[Sasha|Sasha]] hires Magi, [[Kiki|Kiki]] to locate [[Damien Hausberg|Damien]]. They, [[Zeffér|Zeffér]] and [[Saul|Saul]] all find themselves at an office complex where [[Zeffér|Zeffér]] and [[Sasha|Sasha]] team up and fight [[Saul|Saul]] and the Feds. The fight eventually leads them to [[Miss Kiki's Healing Center|Kiki's Shop]] were they encounter the hunter [[Saul|Saul]] is after, where [[Kiki|Kiki]] is shot and [[Zeffér|Zeffér]] is [[EntrThe [[Regatta|Regatta]] held a meeting at [[Regatta HQ#Council Room|HQ]] to discuss [[Kirkman|Kirkman]]'s increasing influence in [[Boston|Boston]]. While [[Owl|Owl]] wants to take out key targets to stamp out his influence, [[Hawk|Hawk]] wants to let the [[Camarilla|Camarilla]] into the city to take the place of the [[Anarchs|Anarchs]]. [[Emmitt Delmar|Crow]] suggested that [[Kirkman|Kirkman]] may be biding his time and suggests to send out a survey party to understand his intentions. [[B|B]] experiences a vision. [[Swan|Osana]] decided to go with [[Emmitt Delmar|Crow]]'s plan.
-
-[[Maggie|Maggie]] and [[Zeffér|Zeffér]] are sent to escort [[LA|LA]] star [[Amelia|Amelia]] to [[Kirkman|Kirkman]]'s 100th birthday party and for [[Maggie|Maggie]] to deliver some documents to on behalf of [[Emmitt Delmar|Crow]] as well as gather intel. At the party, [[Maggie|Maggie]] overhears some chatter about a shell company called [[Ownark|Ownark]] and witnesses [[Yasmin|Yasmin]] giving [[Kirkman|Kirkman]] a ringed finger as a gift, which he is unhappy about.
-
-When [[Kirkman|Kirkman]] returns from calming down he announces the entertainment for the evening is a hunt of humans that have been brought to stay in the hotel rooms above. [[Maggie|Maggie]] passes information from [[Emmitt Delmar|Crow]] onto [[Kirkman|Kirkman]] as requested and is given a key to the private elevator.
-
-She heads up the elevator before they open the main doors for the rest of the guests. When she reaches the fourth floor, she sees [[Saul |a kindred]] blocking the main door and closes the elevator doors. [[Saul | The unknown kindred]] rips the doors open to find a dagger at his neck. He states his intention to save the humans and warns [[Maggie|Maggie]] not to get in his way and offers a boon if she will help him. [[Maggie|Maggie]] calls HQ to get her next steps and helps [[Saul|the kindred]] by giving him one person and leaves him a business card. When the main doors open, she leaves the party.
-
-[[Maggie|Maggie]] later meets [[Saul|Saul]] by the river, having tracked him via the tracker in the business card. She tells him that she will leave something at this spot when she needs him in the future.**Leader**:: [[Oisin|Oisin]]
-
-**Members**:: <div hidden id="Members_values">[[Dean|Dean]], [[Oisin|Oisin]], [[Yasmin|Yasmin]], [[Sasha|Sasha]]</div>
-- [[Dean|Dean]]
-- [[Oisin|Oisin]]
-- [[Sasha|Sasha]]
-- [[Yasmin|Yasmin]]
-
-- [[Dean|Dean]]
-- [[Oisin|Oisin]]
-- [[Sasha|Sasha]]
-- [[Yasmin|Yasmin]]
-
-# Notes
-[[Session 1|Session 1]]
-- [[Trisha|Trisha]] is an undercover [[Regatta|Regatta]] agent
-- [[Anarchs|Anarchs]] keep the Masquerade up but fine with people being in the limelight and using technology
-[[Session 4|Session 4]]
-- [[Anarchs|Anarchs]] want freedom for Vampireshe group stall long enough for the [[Anarchs|Anarchs]] to show up and get [[Damien Hausberg|Damien]]. Unbeknownst to them, [[Zeffér|Zeffér]] also stalls to allow [[Regatta|Regatta]] agents to get in place to intercept. Although ultimately successful in his mission, [[Zeffér|Zeffér]] loses control of the beast which has fatal consequences for his driver. Accidents happen, or so they say. [[Zeffér|Zeffér]] are sent to find out his intentions. Meanwhile [[Saul|Saul]] is given another opportunity to kill [[Desaray|Desaray]] during the [[Art Gallery Opening|event]]. 
-
-The characters attended an [[Art Gallery Opening|Art Gallery Opening]] where they were able to spot some of their enemies including [[Kirkman|Kirkman]], [[Desaray|Desaray]], and [[Sebastian|Sebastian]]. 
-
-[[Amelia|Amelia]]'s unsuccessful tactical seduction of [[Kirkman|Kirkman]]'s moneyman, [[Michael|Michael]] is witnessed by [[The Butcher|The Butcher]]. [[Maggie|Maggie]] has a compulsion to steal a sculpture and uses her abilities to steal it but begins shifting into her bestial form and is spotted by a [[Styks|kindred]] in the rafters. [[Zeffér|Zeffér]] loses track of her and eventually found her huddled in a corner and is sent to check out the [[Styks|kindred in the rafters]]. Meanwhile, [[Saul|Saul]] was looking for an opportunity to confront [[Desaray|Desaray]]. [[Kirkman|Kirkman]] approaches [[Amelia|Amelia]] with an offer if she gets close to [[Dean|Dean]] in order to take [[Oisin|Oisin]] down. [[The Butcher|The Butcher]] learns that there are multiple deeds in the safe for the same pieces of art and informs [[Dean|Dean]].
-
-[[Desaray|Desaray]] finds [[Saul|Saul]] and leads him to the back of the Gallery, which [[Maggie|Maggie]] spots but is overcome with the compulsion to take [[Desaray|Desaray]]'s necklace. A fight ensues between [[Saul|Saul]] and [[Desaray|Desaray]] when [[Saul|Saul]] unsuccessfully attempts to stake her and is shot. [[Maggie|Maggie]], [[Zeffér|Zeffér]] and [[Styks|Styks]] join the fight against her, while [[Sebastian|Sebastian]] bursts in an fires on the group. [[Maggie|Maggie]] and [[Saul|Saul]] are successful in decapitating [[Desaray|Desaray]] and [[Maggie|Maggie]] gets her hands on the necklace. [[Saul|Saul]] is accidently staked by [[Styks|Styks]] and goes into [[Torpor|Torpor]]. [[Zeffér|Zeffér]] shields [[Maggie|Maggie]] from gunfire with his own body and they, along with [[Styks|Styks]] manage to kill [[Sebastian|Sebastian]]. [[Zeffér|Zeffér]] and [[Maggie|Maggie]] flee with [[Saul|Saul]]'s body.
-
-In an attempt to keep people from leaving the show in fear, [[Amelia|Amelia]] puts on the performance of a lifetime, even convincing [[Kirkman|Kirkman]] it was all part of the show. Later, [[Amelia|Amelia]] approaches [[Dean|Dean]] and convinces him to leave with her. She gets him to give her information about her mother as well as [[Oisin|Oisin]] and at the hotel they sleep together and she gives him a [[Lingering Kiss|Lingering Kiss]].
+> ![[Session 5#^summary|Session 5 > ^summary]]
 # Recording
 <iframe width="100%" height="100" src="https://www.youtube.com/embed/5srgpalAG3U?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
 # Notes
