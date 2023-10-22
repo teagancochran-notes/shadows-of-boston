@@ -119,7 +119,7 @@ extra_css:
     - assets/css/admonition.css
     - assets/css/custom_attributes.css
     - assets/css/customization.css
-    - assets/css/extra.css
+    - assets/css/status_icons.css
 extra:
   status:
     processed: Notes complete
