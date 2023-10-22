@@ -7,7 +7,7 @@ tags:
 date: 2023-10-21
 chapter: Voices in the Night
 session: 8
-title: ""
+title: Session 8
 attended: true
 summary: ""
 pcs:
