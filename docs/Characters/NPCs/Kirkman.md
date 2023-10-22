@@ -1,6 +1,8 @@
 ---
 tags:
-  - character/npc
+  - character_npc
+  - Vampire
+  - Camarilla
 organisations:
   - "[[Camarilla|Camarilla]]"
 roles:
@@ -9,6 +11,7 @@ titles:
   - Count
 species: Vampire
 ---
+
 # Notes
 ## [[Session 1|Session 1]]
 - Has been in Boston 7 years but hasn't done much
