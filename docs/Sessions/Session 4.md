@@ -1,9 +1,9 @@
 ---
 template-version: 1.1
 recording: https://www.youtube.com/watch?v=ZN5j4_I3n-k
+status: linking
 tags:
   - session
-  - status/linking
 date: 2022-09-11
 session: 4
 attended: true
