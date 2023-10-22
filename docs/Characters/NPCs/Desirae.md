@@ -7,5 +7,4 @@ status: deceased
 
 # Notes
 
-# Appearances/Mentions
 
