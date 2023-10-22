@@ -23,9 +23,9 @@ species: Human
 	- Introduces [[Saul|Saul]] to [[Marrowbrew|Marrowbrew]]
 # Appearances/Mentions
 
+- [[Session 2|Session 2]] (Active)
 - [[Session 4|Session 4]] (Active)
 - [[Session 5|Session 5]] (Active)
-- [[Session 2|Session 2]] (Active)
 
 ```query
 path:Sessions  Kiki
