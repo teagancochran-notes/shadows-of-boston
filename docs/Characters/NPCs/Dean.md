@@ -25,3 +25,6 @@ aliases:
 - Red hair and wears a lot of maroon
 
 
+- [[Session 1|Session 1]] (Mentioned)
+- [[Session 4|Session 4]] (Active)
+- [[Session 5|Session 5]] (Mentioned)
