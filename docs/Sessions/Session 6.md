@@ -1,9 +1,9 @@
 ---
 template-version: 1.1
 recording: https://youtu.be/5srgpalAG3U
+status: linking
 tags:
   - session
-  - status/linking
 date: 2023-01-29
 chapter: Voices in the Night
 session: 6
