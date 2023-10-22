@@ -9,4 +9,6 @@ species:
 
 # Notes
 - [[Kirkman|Kirkman]]'s money man
+# Appearances/Mentions
 
+- [[Session 4|Session 4]] (Active)
