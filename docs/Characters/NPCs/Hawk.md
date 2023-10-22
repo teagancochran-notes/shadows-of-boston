@@ -5,5 +5,4 @@ organisations:
 bloodline: "[[Ventrue|Ventrue]]"
 species: Vampire
 ---
-# Appearances/Mentions
 
