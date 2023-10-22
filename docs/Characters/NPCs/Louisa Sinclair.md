@@ -12,5 +12,4 @@ bloodline: "[[Malkavian|Malkavian]]"
 ---
 # Notes
 
-# Appearances/Mentions
 

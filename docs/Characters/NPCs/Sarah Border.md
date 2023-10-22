@@ -7,7 +7,6 @@ species: Human
 
 ---
 # Notes
-- Hosted the [[../../Events/Art Gallery Opening|Art Gallery Opening]]
-- Old friend of [[../PCs/Amelia|Amelia]]
-# Appearances/Mentions
+- Hosted the [[Art Gallery Opening|Art Gallery Opening]]
+- Old friend of [[Amelia|Amelia]]
 

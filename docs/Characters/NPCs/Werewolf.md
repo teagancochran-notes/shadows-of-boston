@@ -6,5 +6,4 @@ species: Werewolf
 ---
 # Notes
 
-# Appearances/Mentions
 
