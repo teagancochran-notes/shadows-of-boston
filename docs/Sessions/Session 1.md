@@ -34,14 +34,14 @@ active-npcs:
 ---
 # Summary
 The [[../Organisations/Regatta|Regatta]] held a meeting at [[../Places/Boston/Regatta HQ#Council Room|HQ]] to discuss [[../Characters/NPCs/Kirkman|Kirkman]]'s increasing influence in [[../Places/Boston/index|Boston]]. While [[../Characters/NPCs/Owl|Owl]] wants to take out key targets to stamp out his influence, [[../Characters/NPCs/Hawk|Hawk]] wants to let the [[../Organisations/Camarilla|Camarilla]] into the city to take the place of the [[../Organisations/Anarchs|Anarchs]]. [[../Characters/NPCs/Emmitt Delmar|Crow]] suggested that [[../Characters/NPCs/Kirkman|Kirkman]] may be biding his time and suggests to send out a survey party to understand his intentions. [[B|B]] experiences a vision. [[../Characters/NPCs/Swan|Swan]] decided to go with [[../Characters/NPCs/Emmitt Delmar|Crow]]'s plan.
-<br/>
+
 [[../Characters/PCs/Maggie|Maggie]] and [[../Characters/PCs/Zeffér|Zeffér]] are sent to escort [[../Places/LA/index|LA]] star [[../Characters/PCs/Amelia|Amelia]] to [[../Characters/NPCs/Kirkman|Kirkman]]'s 100th birthday party and for [[../Characters/PCs/Maggie|Maggie]] to deliver some documents to on behalf of [[../Characters/NPCs/Emmitt Delmar|Crow]] as well as gather intel. At the party, [[../Characters/PCs/Maggie|Maggie]] overhears some chatter about a shell company called [[Ownark|Ownark]] and witnesses [[../Characters/NPCs/Yasmin|Yasmin]] giving [[../Characters/NPCs/Kirkman|Kirkman]] a ringed finger as a gift, which he is unhappy about.
-<br/>
+
 When [[../Characters/NPCs/Kirkman|Kirkman]] returns from calming down he announces the entertainment for the evening is a hunt of humans that have been brought to stay in the hotel rooms above. [[../Characters/PCs/Maggie|Maggie]] passes information from [[../Characters/NPCs/Emmitt Delmar|Crow]] onto [[../Characters/NPCs/Kirkman|Kirkman]] as requested and is given a key to the private elevator.
-<br/>
+
 She heads up the elevator before they open the main doors for the rest of the guests. When she reaches the fourth floor, she sees [[Saul |a kindred]] blocking the main door and closes the elevator doors. [[Saul | The unknown kindred]] rips the doors open to find a dagger at his neck. He states his intention to save the humans and warns [[../Characters/PCs/Maggie|Maggie]] not to get in his way and offers a boon if she will help him. [[../Characters/PCs/Maggie|Maggie]] calls HQ to get her next steps and helps [[../Characters/PCs/Saul|the kindred]] by giving him one person and leaves him a business card. When the main doors open, she leaves the party.
-<br/>
-[[../Characters/PCs/Maggie|Maggie]] later meets [[../Characters/PCs/Saul|a kindred]] by the river, having tracked him via the tracker in the business card. She tells him that she will leave something at this spot when she needs him in the future. ^summary
+
+[[../Characters/PCs/Maggie|Maggie]] later meets [[../Characters/PCs/Saul|a kindred]] by the river, having tracked him via the tracker in the business card. She tells him that she will leave something at this spot when she needs him in the future. 
 # Recording
 <iframe width="100%" height="100" src="https://www.youtube.com/embed/qZFgTYo4MV4?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
 # Notes
@@ -141,7 +141,7 @@ She heads up the elevator before they open the main doors for the rest of the gu
 We are tailed to the destination by paparazzi but manage to lose them
 
 ### Other Notes
-![[../Organisations/Anarchs#^32ab23|Anarchs > ^32ab23]]
+![[Anarchs#|Anarchs > ]]
 
 ### @ Party
 * Need to leave phones at the entrance
