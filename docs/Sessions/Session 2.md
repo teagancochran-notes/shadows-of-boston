@@ -28,7 +28,7 @@ active-npcs:
 ---
 
 > [!previously]- Previously
-> ![[Session 1#^summary|Session 1 > ^summary]]
+> 
 
 # Summary
 [[Zeffér|Zeffér]] and [[Sasha|Sasha]] are given the task by their respective organisations to capture [[Damien Hausberg|Damien Hausberg]] - an escapee from [[The Incident|The Incident]]. Meanwhile, [[Saul|Saul]] is tasked to kill the hunter that his after the escapees. [[Sasha|Sasha]] hires Magi, [[Kiki|Kiki]] to locate [[Damien Hausberg|Damien]]. They, [[Zeffér|Zeffér]] and [[Saul|Saul]] all find themselves at an office complex where [[Zeffér|Zeffér]] and [[Sasha|Sasha]] team up and fight [[Saul|Saul]] and the Feds. The fight eventually leads them to [[Miss Kiki's Healing Center|Kiki's Shop]] were they encounter the hunter [[Saul|Saul]] is after, where [[Kiki|Kiki]] is shot and [[Zeffér|Zeffér]] is [[Entrancement|entranced]]. The group stall long enough for the [[Anarchs|Anarchs]] to show up and get [[Damien Hausberg|Damien]]. Unbeknownst to them, [[Zeffér|Zeffér]] also stalls to allow [[Regatta|Regatta]] agents to get in place to intercept. Although ultimately successful in his mission, [[Zeffér|Zeffér]] loses control of the beast which has fatal consequences for his driver. Accidents happen, or so they say.
