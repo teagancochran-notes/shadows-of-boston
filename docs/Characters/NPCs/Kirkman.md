@@ -22,4 +22,9 @@ species: Vampire
 - [[Camarilla|Camarilla]] 2IC
 - From [[New York|New York]]
 
+# Appearances/Mentions
 
+- [[Session 1|Session 1]] (Active)
+- [[Session 4|Session 4]] (Active)
+- [[Session 5|Session 5]] (Active)
+- [[Session 2|Session 2]] (Mentioned)
