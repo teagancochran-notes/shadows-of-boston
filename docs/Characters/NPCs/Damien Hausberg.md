@@ -8,5 +8,4 @@ species:
 ---
 # Notes
 
-# Appearances/Mentions
 
