@@ -1,9 +1,12 @@
 ---
 tags: character/npc
-aliases: ["Dollar Store Sheriff"]
-organisations: ["[[Camarilla|Camarilla]]"]
+aliases:
+  - Dollar Store Sheriff
+organisations:
+  - "[[Camarilla|Camarilla]]"
 species: Vampire
 ---
+
 
 # Notes
 **[[Session 1|Session 1]]**

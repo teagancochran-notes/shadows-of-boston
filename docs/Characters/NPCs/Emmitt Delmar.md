@@ -1,6 +1,9 @@
 ---
 tags:
-  - character/npc
+  - character_npc
+  - Vampire
+  - Regatta
+  - Tzimisce
 aliases:
   - Emmitt
   - Crow
@@ -11,6 +14,7 @@ organisations:
 bloodline: "[[Tzimisce|Tzimisce]]"
 species: Vampire
 ---
+
 # Relationships
 | Person      | Relationship | Sentiment | Notes |
 | ----------- | ------------ | --------- | ----- |

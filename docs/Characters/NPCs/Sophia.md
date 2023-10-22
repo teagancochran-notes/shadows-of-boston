@@ -1,11 +1,12 @@
 ---
 tags: character/npc
 aliases:
- - "Sophia Sutherland"
+  - Sophia Sutherland
 organisations: 
 species: Human
 dob: 2006-10-03
 ---
+
 **Age**: P14Y11M
 
 # Relationships

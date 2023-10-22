@@ -1,10 +1,13 @@
 ---
 tags:
-  - character/npc
+  - character_npc
+  - Vampire
+  - Nosferatu
 organisations: []
 species: Vampire
 bloodline: "[[Nosferatu|Nosferatu]]"
 ---
+
 # Notes
 - Hired to assassinate [[Desirae|Desirae]] by the [[Anarchs|Anarchs]]
 - Accidently shot [[Saul|Saul]] into [[Torpor|Torpor]]

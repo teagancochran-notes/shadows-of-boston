@@ -1,10 +1,12 @@
 ---
 tags:
-  - character/npc
+  - character_npc
+  - Camarilla
 organisations:
   - "[[Camarilla|Camarilla]]"
-species:
+species: 
 ---
+
 # Notes
 - [[Kirkman|Kirkman]]'s money man
 

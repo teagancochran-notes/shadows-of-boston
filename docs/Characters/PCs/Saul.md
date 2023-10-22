@@ -1,6 +1,8 @@
 ---
 tags:
-  - character/pc
+  - character_pc
+  - Vampire
+  - Nosferatu
 aliases:
   - Sol
   - Solomon
@@ -9,6 +11,7 @@ organisations: []
 species: Vampire
 bloodline: "[[Nosferatu|Nosferatu]]"
 ---
+
 
 
 # Relationships

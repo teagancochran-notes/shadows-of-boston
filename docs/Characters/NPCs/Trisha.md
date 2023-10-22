@@ -1,6 +1,9 @@
 ---
 tags:
-  - character/npc
+  - character_npc
+  - Vampire
+  - Regatta
+  - Malkavian
 aliases:
   - Bluejay
 organisations:
@@ -8,6 +11,7 @@ organisations:
 bloodline: "[[Malkavian|Malkavian]]"
 species: Vampire
 ---
+
 # Relationships
 | Person     | Relationship | Sentiment | Notes |
 | ---------- | ------------ | --------- | ----- |

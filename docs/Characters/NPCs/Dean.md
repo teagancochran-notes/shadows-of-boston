@@ -1,6 +1,9 @@
 ---
 tags:
-  - character/npc
+  - character_npc
+  - Vampire
+  - Anarchs
+  - Ventrue
 organisations:
   - "[[Anarchs|Anarchs]]"
 bloodline: "[[Ventrue|Ventrue]]"
@@ -8,6 +11,7 @@ species: Vampire
 aliases:
   - Red
 ---
+
 # Notes
 ## [[Session 1|Session 1]]
 * Finance guy for the [[Anarchs|Anarchs]]

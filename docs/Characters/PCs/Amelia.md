@@ -1,9 +1,11 @@
 ---
 tags:
-  - character/pc
+  - character_pc
+  - Vampire
 organisations: []
 species: Vampire
 ---
+
 # Relationships
 | Person    | Relationship | Sentiment |
 | --------- | ------------ | --------- |

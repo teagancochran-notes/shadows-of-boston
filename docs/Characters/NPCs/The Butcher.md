@@ -1,10 +1,11 @@
 ---
 tags: character/npc
-aliases: ["Tabitha"]
+aliases:
+  - Tabitha
 organisations: []
 species: Vampire
-
 ---
+
 
 # Notes
 

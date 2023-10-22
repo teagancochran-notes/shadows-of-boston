@@ -1,10 +1,12 @@
 ---
 tags:
-  - character/npc
+  - character_npc
+  - Vampire
 aliases: []
 organisations: 
 species: Vampire
 ---
+
 
 # Notes
 

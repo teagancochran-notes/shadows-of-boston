@@ -1,6 +1,9 @@
 ---
 tags:
-  - character/npc
+  - character_npc
+  - Vampire
+  - Anarchs
+  - Malkavian
 aliases:
   - Louisa
   - High Prophetess of the Council
@@ -10,6 +13,7 @@ organisations:
 species: Vampire
 bloodline: "[[Malkavian|Malkavian]]"
 ---
+
 # Notes
 
 
