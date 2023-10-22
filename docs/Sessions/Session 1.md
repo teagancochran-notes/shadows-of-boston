@@ -184,20 +184,3 @@ Met [[../Characters/PCs/Saul|a kindred]] by the river
 	Told him I'd leave something at this spot when we need to talk next
 	Gave him a proper business card
 
-# To Do
-- [x] Assignment
-	- [x] Envelope needs to be shown to Kirkman
-			enticing opportunities
-			cannot look
-	- [x] Escort [[../Characters/NPCs/Emmitt Delmar|Crow]]'s old friend to the party
-- [ ] Try to find out what bloodline [[../Characters/PCs/Zeffér|Zeffér]] has
-- [ ] What is [[Ownark|Ownark]]?
-
-# Questions
-- [ ] What bloodline is [[../Characters/PCs/Zeffér|Zeffér]] and [[../Characters/NPCs/Swan|Swan]]?
-- [ ] What bloodline is [[../Characters/PCs/Amelia|Amelia]]?
-- [ ] What bloodline is [[../Characters/PCs/Sasha|Sasha]]?
-- [ ] What bloodline is [[../Characters/NPCs/Kirkman|Kirkman]]?
-- [ ] What bloodline is [[../Characters/NPCs/Dean|Dean]]?
-- [ ] What bloodline is [[../Characters/NPCs/Yasmin|Yasmin]]?
-- [ ] Why did the [[../Organisations/Camarilla|Camarilla]] risk the Masquerade with the hunt?
