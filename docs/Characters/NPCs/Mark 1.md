@@ -8,5 +8,4 @@ species: Vampire
 
 # Notes
 
-# Appearances/Mentions
 
