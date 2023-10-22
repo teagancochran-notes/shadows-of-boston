@@ -1,8 +1,9 @@
 ---
-tags: character/npc
-organisations: []
+tags:
+  - character_npc
+  - Human
+organisations: 
 species: Human
-status: alive
 ---
 
 
