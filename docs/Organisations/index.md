@@ -6,6 +6,7 @@ tags: MOC/1
 - [[./Camarilla|Camarilla]]
 - [[./Regatta|Regatta]]
 - [[./The Council|The Council]]
+- [[./The Feds|The Feds]]
 - [[./The Ministry|The Ministry]]
 
 %% End Waypoint %%
