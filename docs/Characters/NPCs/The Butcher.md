@@ -1,15 +1,18 @@
 ---
-tags: character/npc
+tags:
+  - character_npc
+  - session
+  - Vampire
 aliases:
   - Tabitha
-organisations: []
+organisations: 
 species: Vampire
 ---
 
 
 # Notes
-
+- Attended the [[../../Events/Art Gallery Opening|Art Gallery Opening]]
 # Appearances/Mentions
 
-- [[Session 3|Session 3]] (Linked)
-- [[Session 4|Session 4]] (Linked)
+- [[../../Sessions/Session 3|Session 3]] (Linked)
+- [[../../Sessions/Session 4|Session 4]] (Linked)
