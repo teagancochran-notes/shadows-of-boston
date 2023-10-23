@@ -10,8 +10,11 @@ deceased: true
 ---
 
 # Notes
+- Hunting partner of [[./Desaray|Desaray]]
+- Arrived at the [[../../Events/Art Gallery Opening|Art Gallery Opening]] with [[./Kirkman|Kirkman]]
+- Killed by [[../PCs/Maggie|Maggie]], [[../PCs/Zeffér|Zeffér]] and [[../PCs/Saul|Saul]] during the [[../../Events/Art Gallery Opening|Art Gallery Opening]]
 
 # Appearances/Mentions
 
-- [[Session 4|Session 4]] (Active)
-- [[Session 6|Session 6]] (Mentioned)
+- [[../../Sessions/Session 4|Session 4]] (Active)
+- [[../../Sessions/Session 6|Session 6]] (Mentioned)
